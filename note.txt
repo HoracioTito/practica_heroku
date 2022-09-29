@@ -1,0 +1,17 @@
+Host
+ec2-3-219-19-205.compute-1.amazonaws.com
+
+Database
+d4vklb3qfammtb
+
+User
+lajizdpivtckuu
+
+Port
+5432
+
+Password
+6ef6afbd526abf09a886913b410050d4e85f9900bf455bf345228b2e0ce145b0
+
+URI
+postgres://lajizdpivtckuu:6ef6afbd526abf09a886913b410050d4e85f9900bf455bf345228b2e0ce145b0@ec2-3-219-19-205.compute-1.amazonaws.com:5432/d4vklb3qfammtb
